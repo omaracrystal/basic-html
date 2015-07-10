@@ -9,10 +9,16 @@ Boilerplate code:
 <html>
   <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Mockup1</title>
+    <link rel="stylesheet" href="">
    </head>
    <body>
-   
+  <div>
+   <h3>gSchool Contact Information:</h3>
+   <p>Jeff: jeff@example.com</p>
+   <p>Hunter: hunter@example.com</p>
+   <p>Spencer: spencer@example.com</p>
+  </div>
    </body>
 </html>
 ```
